@@ -1,0 +1,25 @@
+.cv_eshe {
+    width: 40%;
+    margin-top: 100px;
+}
+
+.eshe_block_wrapper {
+    margin-bottom: 5%;
+}
+
+.eshe_headline {
+    font-size: 25px;
+    margin-bottom: 5%;
+}
+
+.eshe_block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.eshe_list, .eshe_list a{
+    color: rgb(22, 32, 14);
+}
+
+
+
